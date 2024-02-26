@@ -1,7 +1,7 @@
 # EXPLARATORY DATA ANAYSIS - USING PYTHON
 ## Table Contents 
  - [Project Overview](#project-overview)
-    - [Specific Objectives] (#specific-objectives)
+    - [Specific Objectives](#specific-objectives)
  - [Data Sources](#data-sources)
  - [Tools](#tools)
  - [References](#references)
