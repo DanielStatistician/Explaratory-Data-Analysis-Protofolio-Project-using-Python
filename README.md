@@ -1,6 +1,7 @@
 # EXPLARATORY DATA ANAYSIS - USING PYTHON
 ## Table Contents 
  - [Project Overview](#project-overview)
+    - [Specific Objectives] (#specific-objectives)
  - [Data Sources](#data-sources)
  - [Tools](#tools)
  - [References](#references)
@@ -9,7 +10,7 @@
 ### Project Overview
  This exploratory data analysis(EDA) project focuse on providing insights, trend, and overall overbiew of how Canada interact with refugees and asylum seekers from different countries from year 2012 - 2022. By analyzing this data thw concerned body will get rich insights about from which countries the Canada admitted highest number of refugees, total number of resettled refugees in Canada per year, and general trends in refugees and asylum seekers in Canada for the span of year 2012 upto 2022. 
 
- ## The main objective of this project
+ ## Specific Objectives 
  This EDA project will aims to answer the following basic five questions:
  1. From which countries has **Canada** admitted highest number of refugees?
  2. What are the total number of resettled refugees in Canada per year?
