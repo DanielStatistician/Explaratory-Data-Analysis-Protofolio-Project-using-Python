@@ -27,6 +27,8 @@ The original datasets was found in this UNHCR website [unhcr.org](https://www.un
 Python was used in this exploratory data analysis(EDA) on UNHCR refugees data for Canada to clean the datasets, to manipulate the data and fot visualization. To download the python software [click here](https://www.python.org/downloads/)
 
 ### Data Cleaning / Preparation
+In the intial stages of data analysis we have checked the data and perform the following tasks:
+- Load data and inspect for the data dimensions, data types, check for missing values.
 
 ### Explaratory Data Analysis (EDA)
 
