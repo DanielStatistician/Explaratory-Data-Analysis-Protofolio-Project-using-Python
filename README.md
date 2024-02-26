@@ -83,6 +83,7 @@ Based on the following analysis, we recommend the following:
 - Given that Colombia is the predominant source of refugees, Canada could explore targeted support programs to address the root causes of displacement in Colombia.
 - Collaborative efforts with international organizations and diplomatic initiatives may contribute to stability and reduce the need for individuals to seek refuge.
 ### Limitations
-
+The limitations of this exploratory data analysis (EDA) project lie in its exclusive focus on refugees and asylum seekers in Canada from 2012 to 2022. Consequently, other data analysts or researchers may want to explore additional insights pertaining to refugees in other countries as well.
 ### References
-- UNHCR, the UN Refugee Agency | UNHCR([UNHCR, the UN Refugee Agency | UNHC](https://www.unhcr.org/)https://www.unhcr.org/R)
+- UNHCR, the UN Refugee Agency(https://www.unhcr.org/)https://www.unhcr.org/R)
+  
