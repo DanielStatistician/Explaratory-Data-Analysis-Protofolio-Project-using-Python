@@ -7,6 +7,9 @@
  - [Data Cleaning ](#data-cleaning)
  - [Explaratory Data Analysis (EDA)](#explaratory-data-analysis)
  - [Data Analysis](#data-analysis)
+ - [Results /Findings](#results/findings)
+ - [Recommendations](#recommendations)
+ - [Limitations](#limitations)
  - [References](#references)
 
 
