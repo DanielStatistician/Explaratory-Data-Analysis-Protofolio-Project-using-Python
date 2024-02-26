@@ -37,7 +37,14 @@ In the intial stages of data analysis we have checked the data and perform the f
 - Load data and inspect for the data dimensions, data types, check for missing values.
 
 ### Explaratory Data Analysis (EDA)
+EDA was employed to answer all above 5 questions in the project.
+-  To know from which countires that Canada admitted highest number of refugees.
+-  To know total number of resettled refugees in Canada per year.
+-  To know the countries of origin for majority of asylum seekers made in Canada.
+-  To know the total number of asylum seekers claims made in Canada every year
+-  To know the general trends in refugees and asylum seekers statistics from 2012 - 2022.
 
+Overall, barplot and line graph was used in the EDA project.
 ### Data Analysis
 
 ### Results /Findings
