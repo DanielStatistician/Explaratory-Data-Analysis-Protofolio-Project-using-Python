@@ -71,16 +71,18 @@ Name: UNHCR-refugees, dtype: int64
 
 ### Results /Findings
 The results of this EDA project was summarized as the followings:
-- Canada has predominantly admitted refugees from Colombia.
-- The total number of resettled refugees in Canada has varied over the years, reaching a peak of 163,751 in 2012 and fluctuating annually, with 140,621 resettlements in 2022.
-- The majority of asylum seekers in Canada predominantly come from Nigeria, with other significant countries of origin being India, Mexico, Haiti, and Colombia.
-- The total number of asylum seeker claims in Canada has seen substantial variations, with a notable increase in 2017 and a peak of 113,066 claims in 2022.
-- The general trends in refugees and asylum seekers statistics from 2012 to 2022 reveal dynamic patterns, reflecting changes in global circumstances and geopolitical events
+1. Canada has predominantly admitted refugees from Colombia.
+2. The total number of resettled refugees in Canada has varied over the years, reaching a peak of 163,751 in 2012 and fluctuating annually, with 140,621 resettlements in 2022.
+3. The majority of asylum seekers in Canada predominantly come from Nigeria, with other significant countries of origin being India, Mexico, Haiti, and Colombia.
+4. The total number of asylum seeker claims in Canada has seen substantial variations, with a notable increase in 2017 and a peak of 113,066 claims in 2022.
+5. The general trends in refugees and asylum seekers statistics from 2012 to 2022 reveal dynamic patterns, reflecting changes in global circumstances and geopolitical events
   influencing migration to Canada
 
 ### Recommendations
-
+Based on the following analysis, we recommend the following:
+- Given that Colombia is the predominant source of refugees, Canada could explore targeted support programs to address the root causes of displacement in Colombia.
+- Collaborative efforts with international organizations and diplomatic initiatives may contribute to stability and reduce the need for individuals to seek refuge.
 ### Limitations
 
 ### References
-
+- UNHCR, the UN Refugee Agency | UNHCR([UNHCR, the UN Refugee Agency | UNHC](https://www.unhcr.org/)https://www.unhcr.org/R)
