@@ -24,7 +24,7 @@ UNHCR refugees data. This datasets was collected by UNHCR for refugees related f
 The original datasets was found in this UNHCR website [unhcr.org](https://www.unhcr.org/refugee-statistics/download/?url=8tIY7I) 
 
 ### Tools
-Python was used in this exploratory data analysis(EDA) on UNHCR refugees data for Canada to clean the datasets, to manipulate the data and fot visualization.
+Python was used in this exploratory data analysis(EDA) on UNHCR refugees data for Canada to clean the datasets, to manipulate the data and fot visualization. To download the python software [click here](https://www.python.org/downloads/)
 
 ### Data Cleaning / Preparation
 
