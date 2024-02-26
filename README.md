@@ -5,6 +5,7 @@
  - [Data Sources](#data-sources)
  - [Tools](#tools)
  - [Data Cleaning ](#data-cleaning)
+ - [Explaratory Data Analysis (EDA)](#explaratory-data-analysis(eda))
  - [References](#references)
 
 
