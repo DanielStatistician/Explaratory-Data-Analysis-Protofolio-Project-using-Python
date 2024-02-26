@@ -46,12 +46,15 @@ EDA was employed to answer all above 5 questions in the project.
 
 Overall, barplot and line graph was used in the EDA project.
 ### Data Analysis
-In this EDA project we analyzed the datasets using Python:
+In this EDA project we analyzed the datasets using Python. Some of the analysis we conducted include the followings:
 
+To answer the first objective of the EDA project, we analyzed in the folowing ways and Canada was admitted highest number of refugees from Colombia in the span of 2012 upto 2022.
 ```
 # From which countries has Canada admitted highest number of refugees?
 df.groupby('Country-of-origin')['UNHCR-refugees'].sum().sort_values(ascending = False).head(10)
+
 Output:
+
 Country-of-origin
 Colombia                  108416
 China                      98586
@@ -67,6 +70,13 @@ Name: UNHCR-refugees, dtype: int64
 ```
 
 ### Results /Findings
+The results of this EDA project was summarized as the followings:
+- Canada has predominantly admitted refugees from Colombia.
+- The total number of resettled refugees in Canada has varied over the years, reaching a peak of 163,751 in 2012 and fluctuating annually, with 140,621 resettlements in 2022.
+- The majority of asylum seekers in Canada predominantly come from Nigeria, with other significant countries of origin being India, Mexico, Haiti, and Colombia.
+- The total number of asylum seeker claims in Canada has seen substantial variations, with a notable increase in 2017 and a peak of 113,066 claims in 2022.
+- The general trends in refugees and asylum seekers statistics from 2012 to 2022 reveal dynamic patterns, reflecting changes in global circumstances and geopolitical events
+  influencing migration to Canada
 
 ### Recommendations
 
