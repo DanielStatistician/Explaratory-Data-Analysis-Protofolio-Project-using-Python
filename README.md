@@ -1,7 +1,6 @@
 # Exploratory Data Analysis (EDA) Project Using Python
 ## Table Contents 
  - [Project Overview](#project-overview)
-    - [Specific Objectives](#specific-objectives)
  - [Data Sources](#data-sources)
  - [Tools](#tools)
  - [Data Cleaning ](#data-cleaning)
