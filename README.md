@@ -48,8 +48,22 @@ Overall, barplot and line graph was used in the EDA project.
 ### Data Analysis
 In this EDA project we analyzed the datasets using Python:
 
-```#1.From which countries has Canada admitted highest number of refugees?
+```
+# From which countries has Canada admitted highest number of refugees?
 df.groupby('Country-of-origin')['UNHCR-refugees'].sum().sort_values(ascending = False).head(10)
+Output:
+Country-of-origin
+Colombia                  108416
+China                      98586
+Ukraine                    88376
+Pakistan                   74737
+Haiti                      70956
+Sri Lanka                  66343
+Nigeria                    60554
+Mexico                     51072
+Türkiye                    42533
+Iran (Islamic Rep. of)     40881
+Name: UNHCR-refugees, dtype: int64
 ```
 
 ### Results /Findings
