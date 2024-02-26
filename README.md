@@ -1,4 +1,4 @@
-# EXPLARATORY DATA ANAYSIS - USING PYTHON
+# Exploratory Data Analysis (EDA) Project Using Python
 ## Table Contents 
  - [Project Overview](#project-overview)
     - [Specific Objectives](#specific-objectives)
