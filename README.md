@@ -9,6 +9,14 @@
 ### Project Overview
  This exploratory data analysis(EDA) project focuse on providing insights, trend, and overall overbiew of how Canada interact with refugees and asylum seekers from different countries from year 2012 - 2022. By analyzing this data thw concerned body will get rich insights about from which countries the Canada admitted highest number of refugees, total number of resettled refugees in Canada per year, and general trends in refugees and asylum seekers in Canada for the span of year 2012 upto 2022. 
 
+ ## The main objective of this project
+ This EDA project will aims to answer the following basic five questions:
+ 1. From which countries has **Canada** admitted highest number of refugees?
+ 2. What are the total number of resettled refugees in Canada per year?
+ 3. What are the countries of origin for majority of asylum seekers made in Canada?
+ 4. What are the total number of asylum seekers claims made in Canada every year?
+ 5. What are the general trends in refugees and asylum seekers statistics from 2012 - 2022?
+
 
 ### Data Sources
 UNHCR refugees data. This datasets was collected by UNHCR for refugees related for Canada between year 2012 - 2022. The primary datasets used in the EDA was 'UNHCR_refugees_data_for_Canada_2012_to_2022.csv', containing the detailed information about the datasets. [Download the datasets] ().
