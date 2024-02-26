@@ -46,6 +46,11 @@ EDA was employed to answer all above 5 questions in the project.
 
 Overall, barplot and line graph was used in the EDA project.
 ### Data Analysis
+In this EDA project we analyzed the datasets using Python:
+
+```#1.From which countries has Canada admitted highest number of refugees?
+df.groupby('Country-of-origin')['UNHCR-refugees'].sum().sort_values(ascending = False).head(10)
+```
 
 ### Results /Findings
 
